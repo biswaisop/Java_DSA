@@ -40,6 +40,11 @@ public class strings {
         }
     }
 
+    // substring -> returns a substring of given beginning index and ending index
+    String newString = "My name is Tony Statk";
+    String Name = newString.substring(11, newString.length());
+    System.out.println(Name);
+
 
 
 
