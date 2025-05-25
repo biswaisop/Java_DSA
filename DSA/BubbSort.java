@@ -1,6 +1,6 @@
 package DSA;
 
-public class sorting {
+public class BubbSort {
 
     //Bubble sort
     public static void Bubbsort(int [] a){
